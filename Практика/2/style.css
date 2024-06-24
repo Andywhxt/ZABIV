@@ -1,0 +1,104 @@
+.low, .mid, .up{
+    width:  616px;
+    height: 110px;
+    display:flex;
+    margin: 20px;
+}
+.low{
+margin-bottom: 20px;
+}
+.low2, .mid2, .up2{
+    vertical-align: 5px;
+    margin-left: 15px;
+    margin-inline: inherit;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.fl {
+    vertical-align: -22px;
+    line-height: 24px;
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    width: 100%;
+    margin: 5px;
+}
+.lf{
+    margin: 5px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.029em;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.56);
+    font-family: sans-serif;
+}
+.box{
+    border-radius: 24px;
+    top: 317px;
+    left: 332px;
+    width: 664px;
+    height: 554px;
+    vertical-align:middle;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.02);
+}
+.inbox{
+    font-family: sans-serif;
+    font-size: 14;
+    margin: 20px;
+    margin-top: 30px;
+}
+.back{
+    border:1px;
+    font-weight: bold;
+    border:1px double rgba(255, 255, 255, 0.74);
+    font-family: helvetica;
+    border-radius: 12px;
+    height: 56px;
+    width: 134px;
+    background-color: rgba(255, 255, 255, 0.48);
+    padding: 16px, 24px, 16px, 20px;
+    box-shadow: 6px 17px 24px 0px rgba(73, 75, 89, 0.04);
+    display: flex;
+}
+.send{
+     border-style: none;
+    font-weight: bold;
+    border-color: white;
+    font-family: sans-serif;
+    border-radius: 10px;
+    height: 56px;
+    width: 284px;
+    color: white;
+    background: linear-gradient(360deg, #EF4E4E 0%, #FE8240 100%);
+    box-shadow: 0px 8px 16px 0px rgba(255, 0, 0, 0.16);
+}
+.buttons{
+    width:616px;
+    height:56px;
+    display:flex;
+    justify-content:space-between;
+}
+.ZagoloVok{
+    width: 616px;
+    height: 32px;
+    margin:10px;
+}
+.bb{
+    margin: auto;
+    margin-right: 0;
+}
+.ml{
+    margin: auto;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+}
+.kk{
+    margin: auto;
+    font-size: 16px; 
+    font-weight: 600;
+    line-height: 24px;
+}

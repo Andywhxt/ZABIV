@@ -1,0 +1,186 @@
+.icon {
+    margin-top: 12px;
+    vertical-align:-12px;
+}
+.up{
+    margin-bottom: 25px;
+}
+.house{
+text-align: center;
+margin: auto;
+}
+.ab{
+    margin: auto;
+    margin-right: 0;
+    margin-left: 10px;
+}
+.ll{
+    margin: auto;
+    margin-left: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: -0.025em;
+text-align: left;
+}
+.bb{
+    margin: auto;
+    margin-right: 0;
+}
+.fl {
+    line-height: 50%;
+    vertical-align:17px;
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+}
+p
+{
+    font-family: helvetica;
+}
+.box{
+    border-radius: 24px;
+    top:225px;
+    left: 332px;
+    width: 664px;
+    height: 1230px;
+    vertical-align:middle;
+    position:relative;
+    background-color: rgba(0, 0, 0, 0.02);
+}
+.inbox{
+    font-family: helvetica;
+    font-size: 14;
+    margin: 24px;
+}
+.buttons{
+    width:616px;;
+    height:848px;
+    align-content: space-between;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.address{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 24px;
+}
+.add{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: -0.025em;
+text-align: center;
+}
+.fire{
+    margin-bottom: 16px;
+    width: 616px;
+    border:1px double rgba(255, 255, 255, 0.74);
+    height: 80px;
+    gap: 16px;
+    border-radius: 24px;
+    opacity: 0px;  
+    box-shadow: 6px 17px 24px 0px rgba(73, 75, 89, 0.04);  
+    display: flex;
+    background: rgba(255, 255, 255, 0.48);
+}
+.blast{
+    margin-bottom: 16px;
+    border:1px double rgba(255, 255, 255, 0.74);
+    background: rgba(255, 255, 255, 0.48);
+    width: 616px;
+    height: 80px;
+    gap: 16px;
+    border-radius: 24px;
+    opacity: 0px;
+    box-shadow: 6px 17px 24px 0px rgba(73, 75, 89, 0.04);
+    display: flex;
+}
+.flood{
+    margin-bottom: 16px;
+    display: flex;
+    background: rgba(255, 255, 255, 0.48);
+    border:1px double rgba(255, 255, 255, 0.74);
+    width: 616px;;
+    height: 80px;
+    gap: 16px;
+    border-radius: 24px;
+    opacity: 0px;
+    border:1px double rgba(255, 255, 255, 0.74);
+    box-shadow: 6px 17px 24px 0px rgba(73, 75, 89, 0.04);
+}
+.disaster{
+    margin-bottom: 16px;
+    display: flex;
+    width: 616px;
+    height: 80px;
+    gap: 16px;
+    border-radius: 24px;
+    opacity: 0px;
+    border:1px double rgba(255, 255, 255, 0.74);
+    box-shadow: 6px 17px 24px 0px rgba(73, 75, 89, 0.04);
+    background: rgba(255, 255, 255, 0.48);
+}
+.liability{
+    margin-bottom: 16px;
+    display: flex;
+    width: 616px;
+    height: 80px;
+    gap: 16px;
+    border-radius: 24px;
+    opacity: 0px;
+    border:1px double rgba(255, 255, 255, 0.74);
+    box-shadow: 6px 17px 24px 0px rgba(73, 75, 89, 0.04);
+    background: rgba(255, 255, 255, 0.48);
+}
+.il_act{
+    margin-bottom: 16px;
+    display: flex;
+    width: 616px;
+    height: 80px;
+    gap: 16px;
+    border-radius: 24px;
+    opacity: 0px;
+    border:1px double rgba(255, 255, 255, 0.74);
+    box-shadow: 6px 17px 24px 0px rgba(73, 75, 89, 0.04);
+    background: rgba(255, 255, 255, 0.48);
+}
+.fal_obj{
+    margin-bottom: 16px;
+    display: flex;
+    width: 616px;
+    height: 80px;
+    gap: 16px;
+    border-radius: 24px;
+    opacity: 0px;
+    border:1px double rgba(255, 255, 255, 0.74);
+    box-shadow: 6px 17px 24px 0px rgba(73, 75, 89, 0.04);
+    background: rgba(255, 255, 255, 0.48);
+}
+.lightning{
+    margin-bottom: 16px;
+    width: 616px;
+    height: 80px;
+    gap: 16px;
+    border-radius: 24px;
+    opacity: 0px;
+    border:1px double rgba(255, 255, 255, 0.74);
+    box-shadow: 6px 17px 24px 0px rgba(73, 75, 89, 0.04);
+    display: flex;
+    background: rgba(255, 255, 255, 0.48);
+}
+.other{
+    margin-bottom: 16px;
+    display: flex;
+    width: 616px;
+    height: 80px;
+    gap: 16px;
+    border-radius: 24px;
+    opacity: 0px;
+    border:1px double rgba(255, 255, 255, 0.74);
+    box-shadow: 6px 17px 24px 0px rgba(73, 75, 89, 0.04);
+    margin: auto;
+    background: rgba(255, 255, 255, 0.48);
+}
