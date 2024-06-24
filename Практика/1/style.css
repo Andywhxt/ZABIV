@@ -1,15 +1,20 @@
-  .icon {
+.header-icon {
     margin-top: 12px;
     vertical-align:-12px;
 }
-.bb{
-    vertical-align:-3px;
-}
-
-.ll{
+.go-back{
     vertical-align: 4px;
 }
-  .fl {
+.go-next{
+    vertical-align: 4px;
+}
+.back-icon{
+    vertical-align:-3px;
+}
+.next-icon{
+    vertical-align:-3px;
+}
+.header-title {
     line-height: 50%;
     vertical-align:17px;
     font-family: Arial;
@@ -21,7 +26,7 @@ p
     color: gray;
     font-family: helvetica;
 }
-.box{
+.content-box{
     border-radius: 24px;
     top:225px;
     left: 332px;
@@ -31,19 +36,19 @@ p
     position:relative;
     background-color: rgba(0, 0, 0, 0.02);
 }
-.inbox{
+.in-box{
     font-family: helvetica;
     font-size: 14;
     margin: 24px;
 }
-.top{
+.name-of-place{
     font-family: helvetica;
     margin-bottom: 13px;
     margin-top: 30px;
     width: 616px;
     height: 56px;
 }
-.bot{
+.parameters{
     font-family: helvetica;
     margin-bottom: 25px;
     width:616px;

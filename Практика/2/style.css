@@ -1,13 +1,13 @@
-.low, .mid, .up{
+.emergency, .flooding, .electricity{
     width:  616px;
     height: 110px;
     display:flex;
     margin: 20px;
 }
-.low{
+.emergency{
 margin-bottom: 20px;
 }
-.low2, .mid2, .up2{
+.emergency-text, .flooding-text, .electricity-text{
     vertical-align: 5px;
     margin-left: 15px;
     margin-inline: inherit;
@@ -15,7 +15,7 @@ margin-bottom: 20px;
     margin-bottom: auto;
 }
 
-.fl {
+.bold-text {
     vertical-align: -22px;
     line-height: 24px;
     font-family: sans-serif;
@@ -24,7 +24,7 @@ margin-bottom: 20px;
     width: 100%;
     margin: 5px;
 }
-.lf{
+.default-text{
     margin: 5px;
     font-size: 14px;
     font-weight: 400;
@@ -34,7 +34,7 @@ margin-bottom: 20px;
     color: rgba(0, 0, 0, 0.56);
     font-family: sans-serif;
 }
-.box{
+.content-box{
     border-radius: 24px;
     top: 317px;
     left: 332px;
@@ -44,7 +44,7 @@ margin-bottom: 20px;
     position: absolute;
     background-color: rgba(0, 0, 0, 0.02);
 }
-.inbox{
+.in-box{
     font-family: sans-serif;
     font-size: 14;
     margin: 20px;
@@ -81,22 +81,22 @@ margin-bottom: 20px;
     display:flex;
     justify-content:space-between;
 }
-.ZagoloVok{
+.header{
     width: 616px;
     height: 32px;
     margin:10px;
 }
-.bb{
+.back-icon{
     margin: auto;
     margin-right: 0;
 }
-.ml{
+.go-back{
     margin: auto;
     font-size: 16px;
     line-height: 24px;
     font-weight: 600;
 }
-.kk{
+.go-send{
     margin: auto;
     font-size: 16px; 
     font-weight: 600;
